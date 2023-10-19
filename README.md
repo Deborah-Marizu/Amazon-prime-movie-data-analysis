@@ -6,7 +6,7 @@
 The dataset is for the analysis on the customer behavior, trends and pattern of AMAZON PRIME MOVIES from the year 1920 to 2021. Amazon prime video is an American subscription video on demand over top streaming and rental service of amazon offered as part of Amazon’s prime subscription.
 
 # ABOUT THE DATA/DATA COLLECTION
-The dataset was gotten from [Ganiyat Olajumoke Ajala]([https://www.linkedin/in/ganiyat-olajumoke-abe]). It is a structured data, and it is a secondary data collected. The data contains a table in csv files. It contains 9668 rows and 13 columns.
+The dataset was gotten from [Ganiyat Olajumoke Ajala](https://www.linkedin.com/in/ganiyat-olajumoke-abe). It is a structured data, and it is a secondary data collected. The data contains a table in csv files. It contains 9668 rows and 13 columns.
 The analysis to be carried out is to answer the following questions;
 1.	What are the top 10years with the highest release?
 2.	What are the top five movies according to viewer’s rating?
@@ -78,6 +78,10 @@ A pivot table was created having the fields ‘Main Cast’ and ‘show id’. T
 
  
 The Bar chart was created to show the top five Main Cast. The chart showed the highest bar was ‘Unidentified’ and a bar having a figure 1 which inevitably showed this question has an Unfair and biased analysis.
+
+
+# Visualization
+
 
 # RECOMMENDATION
 
