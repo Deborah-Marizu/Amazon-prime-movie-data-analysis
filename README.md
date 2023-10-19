@@ -82,6 +82,7 @@ The Bar chart was created to show the top five Main Cast. The chart showed the h
 
 # Visualization
 
+![prime video analysis dashboard 1](https://github.com/Deborah-Marizu/Amazon-prime-movie-data-analysis/assets/147628427/0e78a601-ad58-4b5a-ad39-782542e5b94c)
 
 # RECOMMENDATION
 
